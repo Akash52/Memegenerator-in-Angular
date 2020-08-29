@@ -1,0 +1,12 @@
+header{
+    margin-top: -50px;
+    height: 150px;
+    text-align: center;
+    padding: 20px;
+    background-color: #EAF0F1;
+}
+.brand{
+    font-family: 'Russo One', sans-serif;
+    font-size: 55px;
+    color: #2B2B52;
+}
