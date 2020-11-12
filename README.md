@@ -13,7 +13,7 @@
 
 ---
 
-<p align="center"> Few lines describing your project.
+<p align="center"> You can generate your own meme 
     <br> 
 </p>
 
@@ -29,7 +29,8 @@
 - [Acknowledgments](#acknowledgement)
 
 ## 🧐 About <a name = "about"></a>
-Write about 1-2 paragraphs describing the purpose of your project.
+These project little bit Meme Generator using Angular and HTML5 canvas.
+You can  create funny memes
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
@@ -82,7 +83,7 @@ Add notes about how to use the system.
 Add additional notes about how to deploy this on a live system.
 
 ## ⛏️ Built Using <a name = "built_using"></a>
-- [MongoDB](https://www.mongodb.com/) - Database
+- [Angular](https://www.mongodb.com/) - Database
 - [Express](https://expressjs.com/) - Server Framework
 - [Vue](https://vuejs.org/) - Web Framework
 - [NodeJs](https://nodejs.org/en/) - Server Environment
